@@ -32,7 +32,7 @@ body {
 #header {
     min-height: calc(100vh - 94px);
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(./img/banner-image.jpg);
+        url(./img/menu-bg-2.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
