@@ -8,7 +8,7 @@
 body {
     font-family: "Mr Dafoe", cursive;
     color: #c9c1ac;
-    background: url(img/menu-bg-2.jpg) center/cover fixed no-repeat;
+    background: url(/img/menu-bg-2.jpg) center/cover fixed no-repeat;
 }
 
 .primary-color {
@@ -32,7 +32,7 @@ body {
 #header {
     min-height: calc(100vh - 94px);
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(img/banner-image.jpg);
+        url(/img/banner-image.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -263,7 +263,7 @@ body {
 #menu {
     background: linear-gradient(rgba(255, 255, 255, 0.7),
             rgba(255, 255, 255, 0.7)),
-        url(img/banner-image.jpg) center/cover fixed no-repeat;
+        url(/img/banner-image.jpg) center/cover fixed no-repeat;
 }
 
 .special {
